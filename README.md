@@ -1,2 +1,3 @@
 # Terraform-eks
-Terraform script to configure Eks cluster in AWS
+
+A Terraform script to automate the configuration and deployment of an EKS cluster on AWS.
